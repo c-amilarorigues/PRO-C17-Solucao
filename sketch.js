@@ -31,7 +31,7 @@ function preload(){
   oppRed2Img = loadAnimation("opponent9.png");
   
   cycleBell = loadSound("bell.mp3");
-  gameOverImg = loadImage("gameOver.png");
+  gameOverImg = loadImage("c15fim_de_jogo_pt.png");
 }
 
 function setup(){
