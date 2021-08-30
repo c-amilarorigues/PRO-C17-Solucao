@@ -125,7 +125,7 @@ function draw() {
   
     textSize(20);
     fill(255);
-    text("Pressione Seta Para Cima para Reiniciar o jogo!", 500,200);
+    text("Pressione Seta para Cima para Reiniciar o jogo!", 500,200);
   
     path.velocityX = 0;
     mainCyclist.velocityY = 0;
